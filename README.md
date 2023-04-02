@@ -3,4 +3,4 @@ Here I will save my LeetCode results. Thanks to [Hao Chen](https://github.com/ha
 
 | Id | Title | Solutions | Difficulty |
 |:--:|:-----:|:---------:|:----------:|
-| 1 | Two Sum| Cpp Python3 | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/)| [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Two_Sum/Cpp/two_sum.cpp) [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Two_Sum/Python3/two_sum.py) | Easy |
