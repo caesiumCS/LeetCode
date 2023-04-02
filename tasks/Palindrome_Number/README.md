@@ -9,4 +9,4 @@ Given an integer x, return true if x is a palindrome , and false otherwise.
 
 Memory: *O*(*n*) where *n* is memory that we need to store reversed input variable;
 
-Time: *O*($$log{10}{n}$$) 
+Time: *O*(*log(n)*) with base 10 logarithm. 
