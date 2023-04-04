@@ -10,4 +10,4 @@ A mapping of digits to letters (just like on the telephone buttons) is given bel
 
 Memory: *O*(*number of generated strings*) where we can count *number of generated strings* using DIGIT_TO_SYMBOL variable.
 
-Time: *O*(*4^n*) with base 10 logarithm. 
+Time: *O*(*4^n*). 
