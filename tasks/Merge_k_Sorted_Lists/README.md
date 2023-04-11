@@ -15,4 +15,4 @@ Memory: *O*(*N*)
 
 Time: *O*(*kN*)
 
-**NOTE**: It is possible to use sort operation after merging all values in lists and we will have O(*NlogN*) time complexity. So, we must compare *k* and *logN*.
+**NOTE**: It is possible to use sort operation after merging all values in lists and we will have O(*NlogN*) time complexity. Hence we must compare *k* and *logN*.
