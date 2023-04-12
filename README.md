@@ -15,5 +15,6 @@ Here I will save my LeetCode results. Thanks to [Hao Chen](https://github.com/ha
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Valid_Sudoku/Cpp/valid_sudoku.cpp) | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/First_Missing_Positive/Cpp/first_missing_positive.cpp) | Hard |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Permutations/Cpp/permutations.cpp) | Medium |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Simplify_Path/Python3/simplify_path.py) | Medium |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Power_of_Two/Cpp/power_of_two.cpp) | Easy |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Removing_Stars_From_a_String/Python3/removing_stars_from_a_string.py) | Medium |
