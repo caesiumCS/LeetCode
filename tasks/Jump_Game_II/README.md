@@ -14,6 +14,7 @@ and
 i + j < n
 
 Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
+
 **Complexity of solution**:
 
 Memory: *O*(*n*)
