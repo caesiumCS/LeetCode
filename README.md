@@ -22,6 +22,7 @@ Here I will save my LeetCode results. Thanks to [Hao Chen](https://github.com/ha
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/First_Missing_Positive/Cpp/first_missing_positive.cpp) | Hard |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Jump_Game_II/Python3/jump_game_ii.py) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Permutations/Cpp/permutations.cpp) | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Group_Anagrams/Python3/group_anagrams.py) | Medium |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Simplify_Path/Python3/simplify_path.py) | Medium |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [SQL](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Combine_Two_Tables/combine_two_tables.sql) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Power_of_Two/Cpp/power_of_two.cpp) | Easy |
