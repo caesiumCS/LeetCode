@@ -21,6 +21,7 @@ Here I will save my LeetCode results. Thanks to [Hao Chen](https://github.com/ha
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Search_Insert_Position/Cpp/search_insert_position.cpp) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Valid_Sudoku/Cpp/valid_sudoku.cpp) | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/First_Missing_Positive/Cpp/first_missing_positive.cpp) | Hard |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Multiply_Strings/Python3/multiply_strings.py) | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Jump_Game_II/Python3/jump_game_ii.py) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Permutations/Cpp/permutations.cpp) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Group_Anagrams/Python3/group_anagrams.py) | Medium |
