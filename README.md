@@ -27,6 +27,7 @@ Here I will save my LeetCode results. Thanks to [Hao Chen](https://github.com/ha
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Permutations/Cpp/permutations.cpp) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Group_Anagrams/Python3/group_anagrams.py) | Medium |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Simplify_Path/Python3/simplify_path.py) | Medium |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python3](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Sort_Colors/Python3/sort_colors.py) | Medium |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [SQL](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Combine_Two_Tables/combine_two_tables.sql) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Power_of_Two/Cpp/power_of_two.cpp) | Easy |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Cpp](https://github.com/caesiumCS/LeetCode/blob/main/tasks/Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Cpp/lowest_common_ancestor_of_binary_search_tree.cpp) | Medium |
